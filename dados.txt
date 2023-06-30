@@ -1,0 +1,5 @@
+José: 35
+Joao: 18
+Daniele: 35
+Rodrigo: 40
+Benicio : 12
